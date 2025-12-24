@@ -2,6 +2,9 @@
 name = "ImgHalftone"
 version = "0.1.0"
 edition = "2024"
+description="Simple halftone converter with custom colors and textures"
+authors="@gladiator_rust"
+
 
 [dependencies]
 image = "0.25.9"
